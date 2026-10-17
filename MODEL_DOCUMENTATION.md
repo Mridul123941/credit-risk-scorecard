@@ -3,8 +3,7 @@
 | | |
 |---|---|
 | Version | 1.0 |
-| Author | [your name] |
-| Date | [date] |
+| Author | Mridul Upadhyay |
 | Status | Illustrative portfolio model, not approved for lending decisions |
 
 ## 1. Purpose and scope
