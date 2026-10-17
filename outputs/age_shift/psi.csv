@@ -1,0 +1,13 @@
+,psi,flag
+SCORE (test vs train),0.0007401244939040627,stable
+SCORE (new vs train),1.3504105028335693,significant shift
+util,0.22901070148648833,moderate shift
+age,8.15334231110197,significant shift
+dpd30,0.012901101545485598,stable
+debt_ratio,0.04232413339282694,stable
+income,0.17122593263606115,moderate shift
+open_lines,0.18715760351869548,moderate shift
+dpd90,0.029751317372996713,stable
+re_loans,0.10931907598020937,moderate shift
+dpd60,0.01582170349790353,stable
+dependents,0.0819959283622887,stable
